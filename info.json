@@ -1,0 +1,11 @@
+{
+	"name": "lilys-cubeine-asset-pack-2",
+	"version": "1.0.0",
+	"title": "Lily's Cubeine Technologies - Asset pack",
+	"author": "MsBinaryLily",
+	"description": "Some bulky graphic assets that I need for some building to work.",
+	"factorio_version": "2.0",
+	"dependencies": [
+		"base"
+	]
+}

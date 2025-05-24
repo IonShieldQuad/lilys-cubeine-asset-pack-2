@@ -1,0 +1,16 @@
+{
+    "Lua.diagnostics.globals": [
+        "util"
+    ],
+    "factorio.versions": [
+        {
+            "name": "Main",
+            "factorioPath": "e:\\SteamLibrary\\steamapps\\common\\Factorio\\bin\\x64\\factorio.exe",
+            "active": true
+        }
+    ],
+    "Lua.workspace.userThirdParty": [
+        "c:\\Users\\Lily\\AppData\\Roaming\\Code\\User\\workspaceStorage\\fb65d62d28a9ec7eb0776743b8fb4073\\justarandomgeek.factoriomod-debug\\sumneko-3rd"
+    ],
+    "Lua.workspace.checkThirdParty": "ApplyInMemory"
+}
